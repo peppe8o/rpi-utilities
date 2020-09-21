@@ -12,5 +12,5 @@ Usage:
 
 Reboot is required after script execution. A log file named "logfile.log" will be created.
 For what this script makes, please refer to:
-(https://peppe8o.com/4-tricks-to-improve-raspberry-pi-performance-and-power-consuption/)
+[https://peppe8o.com/4-tricks-to-improve-raspberry-pi-performance-and-power-consuption/]
 
