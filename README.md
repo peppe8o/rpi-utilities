@@ -8,9 +8,12 @@ It will be focused on topics and will be composed of single BASH scripts able to
 # SetRpiPerformances.sh
 Bash script speeding up performances on Raspberry PI OS Lite (headless).
 Usage:
+- wget https://raw.githubusercontent.com/peppe8o/rpi-utilities/master/SetRpiPerformances.sh
+- chmod +x SetRpiPerformances.sh
 - sudo bash SetRpiPerformances.sh
 
-Reboot is required after script execution. A log file named "logfile.log" will be created.
+Reboot is required after script execution.
+A log file named "logfile.log" will be created.
 For what this script makes, please refer to:
-[https://peppe8o.com/4-tricks-to-improve-raspberry-pi-performance-and-power-consuption/]
+https://peppe8o.com/4-tricks-to-improve-raspberry-pi-performance-and-power-consuption/
 
